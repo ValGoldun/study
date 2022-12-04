@@ -19,5 +19,4 @@ func median(array []string) []string {
 		return array[(len(array)/2)-1 : (len(array)/2)+1]
 	}
 	return array[(len(array) / 2) : (len(array)/2)+1]
-
 }
